@@ -1,3 +1,4 @@
+{
 Scamming = {
 		'hacking',
 		'exploiting',
@@ -12,8 +13,8 @@ Scamming = {
 	},
 	Bullying = {
 		'die',
-    'kid',
-    'child',
+   		 'kid',
+   		 'child',
 		'kill',
 		'shoot',
 		'report',
@@ -39,15 +40,15 @@ Scamming = {
 		'C4',
 		'dead',
 		'gay',
-    'b)'
+    		'b)',
 	},
 	OffsiteLink = {
 		'yt',
 		'dizzy',
 		'google',
-    'http',
-    'www.',
-    '.com'
+    		'http:',
+    		'www.',
+    		'.com',
 	},
 	Dating = {
 		'baby',
@@ -57,8 +58,8 @@ Scamming = {
 		'spawn',
 		'love',
 		'like',
-    'bang'
-    'sexual'
+   		'bang',
+    		'sexual',
 	},
 	Exploit = {
 		'fly',
@@ -73,3 +74,4 @@ Scamming = {
 		'dob',
 		'addy'
 	}
+}
