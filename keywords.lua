@@ -1,4 +1,3 @@
-{
 Scamming = {
 		'hacking',
 		'exploiting',
@@ -74,4 +73,3 @@ Scamming = {
 		'dob',
 		'addy'
 	}
-}
