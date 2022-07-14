@@ -18,7 +18,7 @@ Scamming = {
 		'kill',
 		'shoot',
 		'report',
-		'ban',
+		--'ban',
 		'kick',
 		'idc',
 		'lmao',
