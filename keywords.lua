@@ -23,7 +23,7 @@ Scamming = {
 		'idc',
 		'lmao',
 		'imao',
-		'badass',
+		'ass',
 		'glock',
 		'gun',
 		'weapon',
